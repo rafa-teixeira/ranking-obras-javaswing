@@ -1,10 +1,10 @@
 # Ranking de Obras - Java Swing
 
-## 🎵 Sobre o Projeto
+## Sobre o Projeto
 
 Este é um sistema interativo de votação e ranking de obras desenvolvido em **Java Swing**. O projeto permite que os usuários comparem e votem entre diferentes obras, com um ranking atualizado em tempo real. O sistema conta com um **mecanismo dinâmico de desempate**, onde obras com menos votos são priorizadas para novas rodadas de votação.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 ✅ Interface gráfica intuitiva com **Java Swing**\
 ✅ Lógica de desempate dinâmica para resolver empates\
