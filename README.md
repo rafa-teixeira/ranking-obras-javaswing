@@ -23,11 +23,14 @@ Este é um sistema interativo de votação e ranking de obras desenvolvido em **
 
 ### **Tela de Votação**
 
-*(Adicione aqui uma captura de tela da interface gráfica em execução!)*
+![image](https://github.com/user-attachments/assets/c0b62174-29e4-4449-8b92-19f98adfdf73)
+
 
 ### **Ranking Final**
 
-*(Adicione aqui uma imagem da tela final do ranking!)*
+![image](https://github.com/user-attachments/assets/c7cc5d38-3abf-4e43-83ca-a18ca46e9815)
+![image](https://github.com/user-attachments/assets/564e674a-ed7a-4174-b956-e5a41293f330)
+
 
 ## 🚀 Como Executar o Projeto
 
