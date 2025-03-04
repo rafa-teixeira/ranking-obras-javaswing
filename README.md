@@ -43,10 +43,10 @@ Este é um sistema interativo de votação e ranking de obras desenvolvido em **
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/ranking-obras-java.git
+   git clone https://github.com/rafa-teixeira/ranking-obras-java.git
    ```
 2. Importe o projeto no Eclipse ou IntelliJ IDEA.
-3. Compile e execute a classe `MainScreen.java`.
+3. Compile e execute a classe `MainScreen.java`, onde se encontra o método main.
 4. Comece a votar e acompanhe a evolução do ranking!
 
 ## 📌 Estrutura do Projeto
